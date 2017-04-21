@@ -1,0 +1,7 @@
+[Activity]
+name = MotionCapture
+service_name = org.laptop.MotionCaptureActivity
+icon = MotionCaptureActivity
+activity_version = 3
+show_launcher = yes
+class = MotionCaptureActivity.MotionCaptureActivity

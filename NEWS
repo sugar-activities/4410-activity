@@ -1,0 +1,17 @@
+2008-03-22
+  Version 3
+    - New icon
+    - New: pause after capturing the specified number of images
+    - New: pause/running controls
+    - Improved: Integrated web pages- only one URL needed.
+        - Common navigation header
+    - Improved: Thumbnail page automatically refreshes
+    - Fixed: motion.conf save now works (from motion control web page)
+
+2008-03-07
+  - Setup initial files, using ExampleActiviy as a starting point.
+  - motion/ directory is the motion capture program and includes a
+    webserver.py program. Both must be started from a command line
+  - the motion/ directory is a sub-set and slight re-arrangement of
+    the files available at http://wiki.laptop.org/go/MotionDetection
+            

@@ -1,0 +1,21 @@
+As of 2008-03-22 (in no specific order):
+    - make thumbnails for faster web service
+    - document
+    - cleanup/refactor code
+        - eliminate the use of globals
+    - change to use journal and presence services
+    - allow activity to be shared
+    - need a callback for the spin_button rather than relying on the
+        scheduledCleanup to update the maxImages
+    - update the Paused/Running buttons based on the real detection status
+    - remove web access to controls
+        - choose a subset of the motion controls that are reasonable for
+          this activity and create web and/or sugar wrappers for them.
+    - Re-do user interface. Use a layout tool!
+    - Add live view and captured images to activity screen
+    - Add snapshot support
+        - set time
+        - on/off
+        - snapshost in a separate directory
+        - need a cleanup & display 
+
